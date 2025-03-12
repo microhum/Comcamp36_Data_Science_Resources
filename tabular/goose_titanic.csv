@@ -1,419 +1,457 @@
 GooseId,Passed_Game1,SquidGame_Rank,Name,Sex,Age,Team_Allies,Extra_Lives,Bribe_Amount,Entry_Location,Goose_Species
-892,0,3,"Kelly, Mr. James",male,7.582417582417583,0,0,7.8292,Q,Barnacle Goose
-893,1,3,"Wilkes, Mrs. James (Ellen Needs)",female,10.32967032967033,1,0,7.0,S,Canada Goose
-894,0,2,"Myles, Mr. Thomas Francis",male,13.626373626373628,0,0,9.6875,Q,Canada Goose
-895,0,3,"Wirz, Mr. Albert",male,5.934065934065934,0,0,8.6625,S,Emperor Goose
-896,1,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,4.835164835164836,1,1,12.2875,S,Snow Goose
-897,0,3,"Svensson, Mr. Johan Cervin",male,3.076923076923077,0,0,9.225,S,Greylag Goose
-898,1,3,"Connolly, Miss. Kate",female,6.593406593406594,0,0,7.6292,Q,Canada Goose
-899,0,2,"Caldwell, Mr. Albert Francis",male,5.714285714285714,1,1,29.0,S,Barnacle Goose
-900,1,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,3.956043956043956,0,0,7.2292,C,Snow Goose
-901,0,3,"Davies, Mr. John Samuel",male,4.615384615384616,2,0,24.15,S,Snow Goose
-902,0,3,"Ilieff, Mr. Ylio",male,,0,0,7.8958,S,Canada Goose
-903,0,1,"Jones, Mr. Charles Cresson",male,10.10989010989011,0,0,26.0,S,Greylag Goose
-904,1,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,5.054945054945055,1,0,82.2667,S,Barnacle Goose
-905,0,2,"Howard, Mr. Benjamin",male,13.846153846153847,1,0,26.0,S,Swan Goose
-906,1,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,10.32967032967033,1,0,61.175,S,Swan Goose
-907,1,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,5.274725274725275,1,0,27.7208,C,Emperor Goose
-908,0,2,"Keane, Mr. Daniel",male,7.6923076923076925,0,0,12.35,Q,Snow Goose
-909,0,3,"Assaf, Mr. Gerios",male,4.615384615384616,0,0,7.225,C,Barnacle Goose
-910,1,3,"Ilmakangas, Miss. Ida Livija",female,5.934065934065934,1,0,7.925,S,Swan Goose
-911,1,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,9.89010989010989,0,0,7.225,C,Canada Goose
-912,0,1,"Rothschild, Mr. Martin",male,12.087912087912088,1,0,59.4,C,Barnacle Goose
-913,0,3,"Olsen, Master. Artur Karl",male,1.978021978021978,0,1,3.1708,S,Snow Goose
-914,1,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,31.6833,S,Snow Goose
-915,0,1,"Williams, Mr. Richard Norris II",male,4.615384615384616,0,1,61.3792,C,Greylag Goose
-916,1,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,10.54945054945055,1,3,262.375,C,Canada Goose
-917,0,3,"Robins, Mr. Alexander A",male,10.989010989010989,1,0,14.5,S,Snow Goose
-918,1,1,"Ostby, Miss. Helene Ragnhild",female,4.835164835164836,0,1,61.9792,C,Canada Goose
-919,0,3,"Daher, Mr. Shedid",male,4.945054945054945,0,0,7.225,C,Barnacle Goose
-920,0,1,"Brady, Mr. John Bertram",male,9.010989010989011,0,0,30.5,S,Swan Goose
-921,0,3,"Samaan, Mr. Elias",male,,2,0,21.6792,C,Emperor Goose
-922,0,2,"Louch, Mr. Charles Alexander",male,10.989010989010989,1,0,26.0,S,Canada Goose
-923,0,2,"Jefferys, Mr. Clifford Thomas",male,5.274725274725275,2,0,31.5,S,Emperor Goose
-924,1,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,7.252747252747253,1,2,20.575,S,Canada Goose
-925,1,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,1,2,23.45,S,Swan Goose
-926,0,1,"Mock, Mr. Philipp Edmund",male,6.593406593406594,1,0,57.75,C,Canada Goose
-927,0,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,4.065934065934066,0,0,7.2292,C,Snow Goose
-928,1,3,"Roth, Miss. Sarah A",female,,0,0,8.05,S,Greylag Goose
-929,1,3,"Cacic, Miss. Manda",female,4.615384615384616,0,0,8.6625,S,Emperor Goose
-930,0,3,"Sap, Mr. Julius",male,5.4945054945054945,0,0,9.5,S,Snow Goose
-931,0,3,"Hee, Mr. Ling",male,,0,0,56.4958,S,Snow Goose
-932,0,3,"Karun, Mr. Franz",male,8.571428571428571,0,1,13.4167,C,Canada Goose
-933,0,1,"Franklin, Mr. Thomas Parham",male,,0,0,26.55,S,Snow Goose
-934,0,3,"Goldsmith, Mr. Nathan",male,9.010989010989011,0,0,7.85,S,Swan Goose
-935,1,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,6.593406593406594,0,0,13.0,S,Canada Goose
-936,1,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,9.89010989010989,1,0,52.5542,S,Swan Goose
-937,0,3,"Peltomaki, Mr. Nikolai Johannes",male,5.4945054945054945,0,0,7.925,S,Canada Goose
-938,0,1,"Chevre, Mr. Paul Romaine",male,9.89010989010989,0,0,29.7,C,Canada Goose
-939,0,3,"Shaughnessy, Mr. Patrick",male,,0,0,7.75,Q,Greylag Goose
-940,1,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,13.186813186813188,0,0,76.2917,C,Swan Goose
-941,1,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,7.912087912087912,0,2,15.9,S,Swan Goose
-942,0,1,"Smith, Mr. Lucien Philip",male,5.274725274725275,1,0,60.0,S,Emperor Goose
-943,0,2,"Pulbaum, Mr. Franz",male,5.934065934065934,0,0,15.0333,C,Emperor Goose
-944,1,2,"Hocking, Miss. Ellen Nellie""""",female,4.395604395604396,2,1,23.0,S,Swan Goose
-945,1,1,"Fortune, Miss. Ethel Flora",female,6.153846153846154,3,2,263.0,S,Snow Goose
-946,0,2,"Mangiavacchi, Mr. Serafino Emilio",male,,0,0,15.5792,C,Greylag Goose
-947,0,3,"Rice, Master. Albert",male,2.197802197802198,4,1,29.125,Q,Canada Goose
-948,0,3,"Cor, Mr. Bartol",male,7.6923076923076925,0,0,7.8958,S,Emperor Goose
-949,0,3,"Abelseth, Mr. Olaus Jorgensen",male,5.4945054945054945,0,0,7.65,S,Canada Goose
-950,0,3,"Davison, Mr. Thomas Henry",male,,1,0,16.1,S,Canada Goose
-951,1,1,"Chaudanson, Miss. Victorine",female,7.912087912087912,0,0,262.375,C,Canada Goose
-952,0,3,"Dika, Mr. Mirko",male,3.7362637362637363,0,0,7.8958,S,Canada Goose
-953,0,2,"McCrae, Mr. Arthur Gordon",male,7.032967032967033,0,0,13.5,S,Emperor Goose
-954,0,3,"Bjorklund, Mr. Ernst Herbert",male,3.956043956043956,0,0,7.75,S,Greylag Goose
-955,1,3,"Bradley, Miss. Bridget Delia",female,4.835164835164836,0,0,7.725,Q,Emperor Goose
-956,0,1,"Ryerson, Master. John Borie",male,2.857142857142857,2,2,262.375,C,Emperor Goose
-957,1,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0,0,21.0,S,Snow Goose
-958,1,3,"Burns, Miss. Mary Delia",female,3.956043956043956,0,0,7.8792,Q,Canada Goose
-959,0,1,"Moore, Mr. Clarence Bloomfield",male,10.32967032967033,0,0,42.4,S,Swan Goose
-960,0,1,"Tucker, Mr. Gilbert Milligan Jr",male,6.813186813186814,0,0,28.5375,C,Greylag Goose
-961,1,1,"Fortune, Mrs. Mark (Mary McDougald)",female,13.186813186813188,1,4,263.0,S,Emperor Goose
-962,1,3,"Mulvihill, Miss. Bertha E",female,5.274725274725275,0,0,7.75,Q,Emperor Goose
-963,0,3,"Minkoff, Mr. Lazar",male,4.615384615384616,0,0,7.8958,S,Barnacle Goose
-964,1,3,"Nieminen, Miss. Manta Josefina",female,6.373626373626374,0,0,7.925,S,Barnacle Goose
-965,0,1,"Ovies y Rodriguez, Mr. Servando",male,6.263736263736264,0,0,27.7208,C,Greylag Goose
-966,1,1,"Geiger, Miss. Amalie",female,7.6923076923076925,0,0,211.5,C,Barnacle Goose
-967,0,1,"Keeping, Mr. Edwin",male,7.142857142857143,0,0,211.5,C,Barnacle Goose
-968,0,3,"Miles, Mr. Frank",male,,0,0,8.05,S,Snow Goose
-969,1,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,12.087912087912088,2,0,25.7,S,Swan Goose
-970,0,2,"Aldworth, Mr. Charles Augustus",male,6.593406593406594,0,0,13.0,S,Greylag Goose
-971,1,3,"Doyle, Miss. Elizabeth",female,5.274725274725275,0,0,7.75,Q,Canada Goose
-972,0,3,"Boulos, Master. Akar",male,1.3186813186813187,1,1,15.2458,C,Greylag Goose
-973,0,1,"Straus, Mr. Isidor",male,14.725274725274726,1,0,221.7792,S,Canada Goose
-974,0,1,"Case, Mr. Howard Brown",male,10.76923076923077,0,0,26.0,S,Emperor Goose
-975,0,3,"Demetri, Mr. Marinko",male,,0,0,7.8958,S,Barnacle Goose
-976,0,2,"Lamb, Mr. John Joseph",male,,0,0,10.7083,Q,Barnacle Goose
-977,0,3,"Khalil, Mr. Betros",male,,1,0,14.4542,C,Canada Goose
-978,1,3,"Barry, Miss. Julia",female,5.934065934065934,0,0,7.8792,Q,Emperor Goose
-979,1,3,"Badman, Miss. Emily Louisa",female,3.956043956043956,0,0,8.05,S,Snow Goose
-980,1,3,"O'Donoghue, Ms. Bridget",female,,0,0,7.75,Q,Barnacle Goose
-981,0,2,"Wells, Master. Ralph Lester",male,0.43956043956043955,1,1,23.0,S,Emperor Goose
-982,1,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,4.835164835164836,1,0,13.9,S,Snow Goose
-983,0,3,"Pedersen, Mr. Olaf",male,,0,0,7.775,S,Snow Goose
-984,1,1,"Davidson, Mrs. Thornton (Orian Hays)",female,5.934065934065934,1,2,52.0,S,Barnacle Goose
-985,0,3,"Guest, Mr. Robert",male,,0,0,8.05,S,Barnacle Goose
-986,0,1,"Birnbaum, Mr. Jakob",male,5.4945054945054945,0,0,26.0,C,Canada Goose
-987,0,3,"Tenglin, Mr. Gunnar Isidor",male,5.4945054945054945,0,0,7.7958,S,Barnacle Goose
-988,1,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,16.703296703296704,1,0,78.85,S,Barnacle Goose
-989,0,3,"Makinen, Mr. Kalle Edvard",male,6.373626373626374,0,0,7.925,S,Snow Goose
-990,1,3,"Braf, Miss. Elin Ester Maria",female,4.395604395604396,0,0,7.8542,S,Swan Goose
-991,0,3,"Nancarrow, Mr. William Henry",male,7.252747252747253,0,0,8.05,S,Emperor Goose
-992,1,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,9.45054945054945,1,0,55.4417,C,Greylag Goose
-993,0,2,"Weisz, Mr. Leopold",male,5.934065934065934,1,0,26.0,S,Emperor Goose
-994,0,3,"Foley, Mr. William",male,,0,0,7.75,Q,Canada Goose
-995,0,3,"Johansson Palmquist, Mr. Oskar Leander",male,5.714285714285714,0,0,7.775,S,Greylag Goose
-996,1,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,3.5164835164835164,1,1,8.5167,C,Emperor Goose
-997,0,3,"Holthen, Mr. Johan Martin",male,6.153846153846154,0,0,22.525,S,Swan Goose
-998,0,3,"Buckley, Mr. Daniel",male,4.615384615384616,0,0,7.8208,Q,Barnacle Goose
-999,0,3,"Ryan, Mr. Edward",male,,0,0,7.75,Q,Greylag Goose
-1000,0,3,"Willer, Mr. Aaron (Abi Weller"")""",male,,0,0,8.7125,S,Canada Goose
-1001,0,2,"Swane, Mr. George",male,4.065934065934066,0,0,13.0,S,Greylag Goose
-1002,0,2,"Stanton, Mr. Samuel Ward",male,9.010989010989011,0,0,15.0458,C,Snow Goose
-1003,1,3,"Shine, Miss. Ellen Natalia",female,,0,0,7.7792,Q,Canada Goose
-1004,1,1,"Evans, Miss. Edith Corse",female,7.912087912087912,0,0,31.6792,C,Emperor Goose
-1005,1,3,"Buckley, Miss. Katherine",female,4.065934065934066,0,0,7.2833,Q,Barnacle Goose
-1006,1,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,13.846153846153847,1,0,221.7792,S,Canada Goose
-1007,0,3,"Chronopoulos, Mr. Demetrios",male,3.956043956043956,1,0,14.4542,C,Swan Goose
-1008,0,3,"Thomas, Mr. John",male,,0,0,6.4375,C,Greylag Goose
-1009,1,3,"Sandstrom, Miss. Beatrice Irene",female,0.21978021978021978,1,1,16.7,S,Canada Goose
-1010,0,1,"Beattie, Mr. Thomson",male,7.912087912087912,0,0,75.2417,C,Snow Goose
-1011,1,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,6.373626373626374,1,0,26.0,S,Emperor Goose
-1012,1,2,"Watt, Miss. Bertha J",female,2.6373626373626373,0,0,15.75,S,Greylag Goose
-1013,0,3,"Kiernan, Mr. John",male,,1,0,7.75,Q,Emperor Goose
-1014,1,1,"Schabert, Mrs. Paul (Emma Mock)",female,7.6923076923076925,1,0,57.75,C,Barnacle Goose
-1015,0,3,"Carver, Mr. Alfred John",male,6.153846153846154,0,0,7.25,S,Canada Goose
-1016,0,3,"Kennedy, Mr. John",male,,0,0,7.75,Q,Snow Goose
-1017,1,3,"Cribb, Miss. Laura Alice",female,3.7362637362637363,0,1,16.1,S,Canada Goose
-1018,0,3,"Brobeck, Mr. Karl Rudolf",male,4.835164835164836,0,0,7.7958,S,Greylag Goose
-1019,1,3,"McCoy, Miss. Alicia",female,,2,0,23.25,Q,Greylag Goose
-1020,0,2,"Bowenur, Mr. Solomon",male,9.230769230769232,0,0,13.0,S,Greylag Goose
-1021,0,3,"Petersen, Mr. Marius",male,5.274725274725275,0,0,8.05,S,Swan Goose
-1022,0,3,"Spinner, Mr. Henry John",male,7.032967032967033,0,0,8.05,S,Barnacle Goose
-1023,0,1,"Gracie, Col. Archibald IV",male,11.64835164835165,0,0,28.5,C,Swan Goose
-1024,1,3,"Lefebre, Mrs. Frank (Frances)",female,,0,4,25.4667,S,Swan Goose
-1025,0,3,"Thomas, Mr. Charles P",male,,1,0,6.4375,C,Swan Goose
-1026,0,3,"Dintcheff, Mr. Valtcho",male,9.45054945054945,0,0,7.8958,S,Greylag Goose
-1027,0,3,"Carlsson, Mr. Carl Robert",male,5.274725274725275,0,0,7.8542,S,Snow Goose
-1028,0,3,"Zakarian, Mr. Mapriededer",male,5.824175824175825,0,0,7.225,C,Greylag Goose
-1029,0,2,"Schmidt, Mr. August",male,5.714285714285714,0,0,13.0,S,Swan Goose
-1030,1,3,"Drapkin, Miss. Jennie",female,5.054945054945055,0,0,8.05,S,Barnacle Goose
-1031,0,3,"Goodwin, Mr. Charles Frederick",male,8.791208791208792,1,6,46.9,S,Canada Goose
-1032,1,3,"Goodwin, Miss. Jessie Allis",female,2.197802197802198,5,2,46.9,S,Swan Goose
-1033,1,1,"Daniels, Miss. Sarah",female,7.252747252747253,0,0,151.55,S,Swan Goose
-1034,0,1,"Ryerson, Mr. Arthur Larned",male,13.406593406593407,1,3,262.375,C,Greylag Goose
-1035,0,2,"Beauchamp, Mr. Henry James",male,6.153846153846154,0,0,26.0,S,Emperor Goose
-1036,0,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,9.230769230769232,0,0,26.55,S,Emperor Goose
-1037,0,3,"Vander Planke, Mr. Julius",male,6.813186813186814,3,0,18.0,S,Greylag Goose
-1038,0,1,"Hilliard, Mr. Herbert Henry",male,,0,0,51.8625,S,Barnacle Goose
-1039,0,3,"Davies, Mr. Evan",male,4.835164835164836,0,0,8.05,S,Swan Goose
-1040,0,1,"Crafton, Mr. John Bertram",male,,0,0,26.55,S,Swan Goose
-1041,0,2,"Lahtinen, Rev. William",male,6.593406593406594,1,1,26.0,S,Swan Goose
-1042,1,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,5.054945054945055,0,1,83.1583,C,Emperor Goose
-1043,0,3,"Matinoff, Mr. Nicola",male,,0,0,7.8958,C,Emperor Goose
-1044,0,3,"Storey, Mr. Thomas",male,13.296703296703297,0,0,,S,Greylag Goose
-1045,1,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,7.912087912087912,0,2,12.1833,S,Greylag Goose
-1046,0,3,"Asplund, Master. Filip Oscar",male,2.857142857142857,4,2,31.3875,S,Snow Goose
-1047,0,3,"Duquemin, Mr. Joseph",male,5.274725274725275,0,0,7.55,S,Emperor Goose
-1048,1,1,"Bird, Miss. Ellen",female,6.373626373626374,0,0,221.7792,S,Emperor Goose
-1049,1,3,"Lundin, Miss. Olga Elida",female,5.054945054945055,0,0,7.8542,S,Swan Goose
-1050,0,1,"Borebank, Mr. John James",male,9.230769230769232,0,0,26.55,S,Emperor Goose
-1051,1,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,5.714285714285714,0,2,13.775,S,Barnacle Goose
-1052,1,3,"Smyth, Miss. Julia",female,,0,0,7.7333,Q,Swan Goose
-1053,0,3,"Touma, Master. Georges Youssef",male,1.5384615384615385,1,1,15.2458,C,Swan Goose
-1054,1,2,"Wright, Miss. Marion",female,5.714285714285714,0,0,13.5,S,Snow Goose
-1055,0,3,"Pearce, Mr. Ernest",male,,0,0,7.0,S,Swan Goose
-1056,0,2,"Peruschitz, Rev. Joseph Maria",male,9.010989010989011,0,0,13.0,S,Emperor Goose
-1057,1,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,5.714285714285714,1,1,22.025,S,Swan Goose
-1058,0,1,"Brandeis, Mr. Emil",male,10.54945054945055,0,0,50.4958,C,Swan Goose
-1059,0,3,"Ford, Mr. Edward Watson",male,3.956043956043956,2,2,34.375,S,Snow Goose
-1060,1,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,0,0,27.7208,C,Barnacle Goose
-1061,1,3,"Hellstrom, Miss. Hilda Maria",female,4.835164835164836,0,0,8.9625,S,Emperor Goose
-1062,0,3,"Lithman, Mr. Simon",male,,0,0,7.55,S,Swan Goose
-1063,0,3,"Zakarian, Mr. Ortin",male,5.934065934065934,0,0,7.225,C,Canada Goose
-1064,0,3,"Dyker, Mr. Adolf Fredrik",male,5.054945054945055,1,0,13.9,S,Swan Goose
-1065,0,3,"Torfa, Mr. Assad",male,,0,0,7.2292,C,Swan Goose
-1066,0,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,8.791208791208792,1,5,31.3875,S,Swan Goose
-1067,1,2,"Brown, Miss. Edith Eileen",female,3.296703296703297,0,2,39.0,S,Emperor Goose
-1068,1,2,"Sincock, Miss. Maude",female,4.395604395604396,0,0,36.75,S,Swan Goose
-1069,0,1,"Stengel, Mr. Charles Emil Henry",male,11.868131868131869,1,0,55.4417,C,Snow Goose
-1070,1,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,7.912087912087912,0,3,39.0,S,Barnacle Goose
-1071,1,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,14.065934065934066,0,2,83.1583,C,Snow Goose
-1072,0,2,"McCrie, Mr. James Matthew",male,6.593406593406594,0,0,13.0,S,Canada Goose
-1073,0,1,"Compton, Mr. Alexander Taylor Jr",male,8.131868131868131,1,1,83.1583,C,Swan Goose
-1074,1,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,3.956043956043956,1,0,53.1,S,Swan Goose
-1075,0,3,"Lane, Mr. Patrick",male,,0,0,7.75,Q,Snow Goose
-1076,1,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,5.934065934065934,1,1,247.5208,C,Swan Goose
-1077,0,2,"Maybery, Mr. Frank Hubert",male,8.791208791208792,0,0,16.0,S,Canada Goose
-1078,1,2,"Phillips, Miss. Alice Frances Louisa",female,4.615384615384616,0,1,21.0,S,Canada Goose
-1079,0,3,"Davies, Mr. Joseph",male,3.7362637362637363,2,0,8.05,S,Swan Goose
-1080,1,3,"Sage, Miss. Ada",female,,8,2,69.55,S,Swan Goose
-1081,0,2,"Veal, Mr. James",male,8.791208791208792,0,0,13.0,S,Emperor Goose
-1082,0,2,"Angle, Mr. William A",male,7.472527472527473,1,0,26.0,S,Emperor Goose
-1083,0,1,"Salomon, Mr. Abraham L",male,,0,0,26.0,S,Snow Goose
-1084,0,3,"van Billiard, Master. Walter John",male,2.5274725274725274,1,1,14.5,S,Greylag Goose
-1085,0,2,"Lingane, Mr. John",male,13.406593406593407,0,0,12.35,Q,Barnacle Goose
-1086,0,2,"Drew, Master. Marshall Brines",male,1.7582417582417582,0,2,32.5,S,Emperor Goose
-1087,0,3,"Karlsson, Mr. Julius Konrad Eugen",male,7.252747252747253,0,0,7.8542,S,Swan Goose
-1088,0,1,"Spedden, Master. Robert Douglas",male,1.3186813186813187,0,2,134.5,C,Greylag Goose
-1089,1,3,"Nilsson, Miss. Berta Olivia",female,3.956043956043956,0,0,7.775,S,Barnacle Goose
-1090,0,2,"Baimbrigge, Mr. Charles Robert",male,5.054945054945055,0,0,10.5,S,Barnacle Goose
-1091,1,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0,0,8.1125,S,Greylag Goose
-1092,1,3,"Murphy, Miss. Nora",female,,0,0,15.5,Q,Canada Goose
-1093,0,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.07252747252747253,0,2,14.4,S,Barnacle Goose
-1094,0,1,"Astor, Col. John Jacob",male,10.32967032967033,1,0,227.525,C,Canada Goose
-1095,1,2,"Quick, Miss. Winifred Vera",female,1.7582417582417582,1,1,26.0,S,Swan Goose
-1096,0,2,"Andrew, Mr. Frank Thomas",male,5.4945054945054945,0,0,10.5,S,Canada Goose
-1097,0,1,"Omont, Mr. Alfred Fernand",male,,0,0,25.7417,C,Canada Goose
-1098,1,3,"McGowan, Miss. Katherine",female,7.6923076923076925,0,0,7.75,Q,Greylag Goose
-1099,0,2,"Collett, Mr. Sidney C Stuart",male,5.274725274725275,0,0,10.5,S,Canada Goose
-1100,1,1,"Rosenbaum, Miss. Edith Louise",female,7.252747252747253,0,0,27.7208,C,Barnacle Goose
-1101,0,3,"Delalic, Mr. Redjo",male,5.4945054945054945,0,0,7.8958,S,Swan Goose
-1102,0,3,"Andersen, Mr. Albert Karvin",male,7.032967032967033,0,0,22.525,S,Swan Goose
-1103,0,3,"Finoli, Mr. Luigi",male,,0,0,7.05,S,Greylag Goose
-1104,0,2,"Deacon, Mr. Percy William",male,3.7362637362637363,0,0,73.5,S,Snow Goose
-1105,1,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,13.186813186813188,1,0,26.0,S,Emperor Goose
-1106,1,3,"Andersson, Miss. Ida Augusta Margareta",female,8.351648351648352,4,2,7.775,S,Swan Goose
-1107,0,1,"Head, Mr. Christopher",male,9.230769230769232,0,0,42.5,S,Snow Goose
-1108,1,3,"Mahon, Miss. Bridget Delia",female,,0,0,7.8792,Q,Barnacle Goose
-1109,0,1,"Wick, Mr. George Dennick",male,12.527472527472527,1,1,164.8667,S,Barnacle Goose
-1110,1,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,10.989010989010989,1,1,211.5,C,Emperor Goose
-1111,0,3,"Thomson, Mr. Alexander Morrison",male,,0,0,8.05,S,Swan Goose
-1112,1,2,"Duran y More, Miss. Florentina",female,6.593406593406594,1,0,13.8583,C,Snow Goose
-1113,0,3,"Reynolds, Mr. Harold J",male,4.615384615384616,0,0,8.05,S,Canada Goose
-1114,1,2,"Cook, Mrs. (Selena Rogers)",female,4.835164835164836,0,0,10.5,S,Snow Goose
-1115,0,3,"Karlsson, Mr. Einar Gervasius",male,4.615384615384616,0,0,7.7958,S,Canada Goose
-1116,1,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,11.64835164835165,0,0,27.4458,C,Swan Goose
-1117,1,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,0,2,15.2458,C,Swan Goose
-1118,0,3,"Asplund, Mr. Johan Charles",male,5.054945054945055,0,0,7.7958,S,Swan Goose
-1119,1,3,"McNeill, Miss. Bridget",female,,0,0,7.75,Q,Emperor Goose
-1120,0,3,"Everett, Mr. Thomas James",male,8.901098901098901,0,0,15.1,S,Emperor Goose
-1121,0,2,"Hocking, Mr. Samuel James Metcalfe",male,7.912087912087912,0,0,13.0,S,Barnacle Goose
-1122,0,2,"Sweet, Mr. George Frederick",male,3.076923076923077,0,0,65.0,S,Swan Goose
-1123,1,1,"Willard, Miss. Constance",female,4.615384615384616,0,0,26.55,S,Emperor Goose
-1124,0,3,"Wiklund, Mr. Karl Johan",male,4.615384615384616,1,0,6.4958,S,Barnacle Goose
-1125,0,3,"Linehan, Mr. Michael",male,,0,0,7.8792,Q,Swan Goose
-1126,0,1,"Cumings, Mr. John Bradley",male,8.571428571428571,1,0,71.2833,C,Snow Goose
-1127,0,3,"Vendel, Mr. Olof Edvin",male,4.395604395604396,0,0,7.8542,S,Emperor Goose
-1128,0,1,"Warren, Mr. Frank Manley",male,14.065934065934066,1,0,75.25,C,Swan Goose
-1129,0,3,"Baccos, Mr. Raffull",male,4.395604395604396,0,0,7.225,C,Swan Goose
-1130,1,2,"Hiltunen, Miss. Marta",female,3.956043956043956,1,1,13.0,S,Emperor Goose
-1131,1,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,10.54945054945055,1,0,106.425,C,Greylag Goose
-1132,1,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,12.087912087912088,0,0,27.7208,C,Emperor Goose
-1133,1,2,"Christy, Mrs. (Alice Frances)",female,9.89010989010989,0,2,30.0,S,Emperor Goose
-1134,0,1,"Spedden, Mr. Frederic Oakley",male,9.89010989010989,1,1,134.5,C,Greylag Goose
-1135,0,3,"Hyman, Mr. Abraham",male,,0,0,7.8875,S,Barnacle Goose
-1136,0,3,"Johnston, Master. William Arthur Willie""""",male,,1,2,23.45,S,Swan Goose
-1137,0,1,"Kenyon, Mr. Frederick R",male,9.010989010989011,1,0,51.8625,S,Barnacle Goose
-1138,1,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,4.835164835164836,0,0,21.0,S,Emperor Goose
-1139,0,2,"Drew, Mr. James Vivian",male,9.230769230769232,1,1,32.5,S,Swan Goose
-1140,1,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,6.373626373626374,1,0,26.0,S,Canada Goose
-1141,1,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,1,0,14.4542,C,Canada Goose
-1142,1,2,"West, Miss. Barbara J",female,0.2021978021978022,1,2,27.75,S,Emperor Goose
-1143,0,3,"Abrahamsson, Mr. Abraham August Johannes",male,4.395604395604396,0,0,7.925,S,Greylag Goose
-1144,0,1,"Clark, Mr. Walter Miller",male,5.934065934065934,1,0,136.7792,C,Barnacle Goose
-1145,0,3,"Salander, Mr. Karl Johan",male,5.274725274725275,0,0,9.325,S,Canada Goose
-1146,0,3,"Wenzel, Mr. Linhart",male,7.142857142857143,0,0,9.5,S,Swan Goose
-1147,0,3,"MacKay, Mr. George William",male,,0,0,7.55,S,Emperor Goose
-1148,0,3,"Mahon, Mr. John",male,,0,0,7.75,Q,Canada Goose
-1149,0,3,"Niklasson, Mr. Samuel",male,6.153846153846154,0,0,8.05,S,Snow Goose
-1150,1,2,"Bentham, Miss. Lilian W",female,4.175824175824176,0,0,13.0,S,Emperor Goose
-1151,0,3,"Midtsjo, Mr. Karl Albert",male,4.615384615384616,0,0,7.775,S,Emperor Goose
-1152,0,3,"de Messemaeker, Mr. Guillaume Joseph",male,8.021978021978022,1,0,17.4,S,Canada Goose
-1153,0,3,"Nilsson, Mr. August Ferdinand",male,4.615384615384616,0,0,7.8542,S,Snow Goose
-1154,1,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,6.373626373626374,0,2,23.0,S,Emperor Goose
-1155,1,3,"Klasen, Miss. Gertrud Emilia",female,0.21978021978021978,1,1,12.1833,S,Snow Goose
-1156,0,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,6.593406593406594,0,0,12.7375,C,Greylag Goose
-1157,0,3,"Lyntakoff, Mr. Stanko",male,,0,0,7.8958,S,Greylag Goose
-1158,0,1,"Chisholm, Mr. Roderick Robert Crispin",male,,0,0,0.0,S,Greylag Goose
-1159,0,3,"Warren, Mr. Charles William",male,,0,0,7.55,S,Canada Goose
-1160,1,3,"Howard, Miss. May Elizabeth",female,,0,0,8.05,S,Canada Goose
-1161,0,3,"Pokrnic, Mr. Mate",male,3.7362637362637363,0,0,8.6625,S,Barnacle Goose
-1162,0,1,"McCaffry, Mr. Thomas Francis",male,10.10989010989011,0,0,75.2417,C,Swan Goose
-1163,0,3,"Fox, Mr. Patrick",male,,0,0,7.75,Q,Canada Goose
-1164,1,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,5.714285714285714,1,0,136.7792,C,Barnacle Goose
-1165,1,3,"Lennon, Miss. Mary",female,,1,0,15.5,Q,Emperor Goose
-1166,0,3,"Saade, Mr. Jean Nassr",male,,0,0,7.225,C,Canada Goose
-1167,1,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,4.395604395604396,1,0,26.0,S,Snow Goose
-1168,0,2,"Parker, Mr. Clifford Richard",male,6.153846153846154,0,0,10.5,S,Swan Goose
-1169,0,2,"Faunthorpe, Mr. Harry",male,8.791208791208792,1,0,26.0,S,Swan Goose
-1170,0,2,"Ware, Mr. John James",male,6.593406593406594,1,0,21.0,S,Swan Goose
-1171,0,2,"Oxenham, Mr. Percy Thomas",male,4.835164835164836,0,0,10.5,S,Canada Goose
-1172,1,3,"Oreskovic, Miss. Jelka",female,5.054945054945055,0,0,8.6625,S,Barnacle Goose
-1173,0,3,"Peacock, Master. Alfred Edward",male,0.16483516483516483,1,1,13.775,S,Snow Goose
-1174,1,3,"Fleming, Miss. Honora",female,,0,0,7.75,Q,Emperor Goose
-1175,1,3,"Touma, Miss. Maria Youssef",female,1.978021978021978,1,1,15.2458,C,Swan Goose
-1176,1,3,"Rosblom, Miss. Salli Helena",female,0.43956043956043955,1,1,20.2125,S,Greylag Goose
-1177,0,3,"Dennis, Mr. William",male,7.912087912087912,0,0,7.25,S,Snow Goose
-1178,0,3,"Franklin, Mr. Charles (Charles Fardon)",male,,0,0,7.25,S,Snow Goose
-1179,0,1,"Snyder, Mr. John Pillsbury",male,5.274725274725275,1,0,82.2667,S,Greylag Goose
-1180,0,3,"Mardirosian, Mr. Sarkis",male,,0,0,7.2292,C,Barnacle Goose
-1181,0,3,"Ford, Mr. Arthur",male,,0,0,8.05,S,Greylag Goose
-1182,0,1,"Rheims, Mr. George Alexander Lucien",male,,0,0,39.6,S,Emperor Goose
-1183,1,3,"Daly, Miss. Margaret Marcella Maggie""""",female,6.593406593406594,0,0,6.95,Q,Canada Goose
-1184,0,3,"Nasr, Mr. Mustafa",male,,0,0,7.2292,C,Canada Goose
-1185,0,1,"Dodge, Dr. Washington",male,11.64835164835165,1,1,81.8583,S,Greylag Goose
-1186,0,3,"Wittevrongel, Mr. Camille",male,7.912087912087912,0,0,9.5,S,Greylag Goose
-1187,0,3,"Angheloff, Mr. Minko",male,5.714285714285714,0,0,7.8958,S,Barnacle Goose
-1188,1,2,"Laroche, Miss. Louise",female,0.21978021978021978,1,2,41.5792,C,Barnacle Goose
-1189,0,3,"Samaan, Mr. Hanna",male,,2,0,21.6792,C,Emperor Goose
-1190,0,1,"Loring, Mr. Joseph Holland",male,6.593406593406594,0,0,45.5,S,Emperor Goose
-1191,0,3,"Johansson, Mr. Nils",male,6.373626373626374,0,0,7.8542,S,Emperor Goose
-1192,0,3,"Olsson, Mr. Oscar Wilhelm",male,7.032967032967033,0,0,7.775,S,Greylag Goose
-1193,0,2,"Malachard, Mr. Noel",male,,0,0,15.0458,C,Greylag Goose
-1194,0,2,"Phillips, Mr. Escott Robert",male,9.45054945054945,0,1,21.0,S,Canada Goose
-1195,0,3,"Pokrnic, Mr. Tome",male,5.274725274725275,0,0,8.6625,S,Swan Goose
-1196,1,3,"McCarthy, Miss. Catherine Katie""""",female,,0,0,7.75,Q,Snow Goose
-1197,1,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,14.065934065934066,1,1,26.55,S,Canada Goose
-1198,0,1,"Allison, Mr. Hudson Joshua Creighton",male,6.593406593406594,1,2,151.55,S,Greylag Goose
-1199,0,3,"Aks, Master. Philip Frank",male,0.1824175824175824,0,1,9.35,S,Swan Goose
-1200,0,1,"Hays, Mr. Charles Melville",male,12.087912087912088,1,1,93.5,S,Barnacle Goose
-1201,1,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,9.89010989010989,1,0,14.1083,S,Canada Goose
-1202,0,3,"Cacic, Mr. Jego Grga",male,3.956043956043956,0,0,8.6625,S,Emperor Goose
-1203,0,3,"Vartanian, Mr. David",male,4.835164835164836,0,0,7.225,C,Emperor Goose
-1204,0,3,"Sadowitz, Mr. Harry",male,,0,0,7.575,S,Greylag Goose
-1205,1,3,"Carr, Miss. Jeannie",female,8.131868131868131,0,0,7.75,Q,Greylag Goose
-1206,1,1,"White, Mrs. John Stuart (Ella Holmes)",female,12.087912087912088,0,0,135.6333,C,Snow Goose
-1207,1,3,"Hagardon, Miss. Kate",female,3.7362637362637363,0,0,7.7333,Q,Canada Goose
-1208,0,1,"Spencer, Mr. William Augustus",male,12.527472527472527,1,0,146.5208,C,Greylag Goose
-1209,0,2,"Rogers, Mr. Reginald Harry",male,4.175824175824176,0,0,10.5,S,Barnacle Goose
-1210,0,3,"Jonsson, Mr. Nils Hilding",male,5.934065934065934,0,0,7.8542,S,Snow Goose
-1211,0,2,"Jefferys, Mr. Ernest Wilfred",male,4.835164835164836,2,0,31.5,S,Greylag Goose
-1212,0,3,"Andersson, Mr. Johan Samuel",male,5.714285714285714,0,0,7.775,S,Emperor Goose
-1213,0,3,"Krekorian, Mr. Neshan",male,5.4945054945054945,0,0,7.2292,C,Snow Goose
-1214,0,2,"Nesson, Mr. Israel",male,5.714285714285714,0,0,13.0,S,Canada Goose
-1215,0,1,"Rowe, Mr. Alfred G",male,7.252747252747253,0,0,26.55,S,Canada Goose
-1216,1,1,"Kreuchen, Miss. Emilie",female,8.571428571428571,0,0,211.3375,S,Greylag Goose
-1217,0,3,"Assam, Mr. Ali",male,5.054945054945055,0,0,7.05,S,Snow Goose
-1218,1,2,"Becker, Miss. Ruth Elizabeth",female,2.6373626373626373,2,1,39.0,S,Canada Goose
-1219,0,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,10.10989010989011,0,0,79.2,C,Swan Goose
-1220,0,2,"Clarke, Mr. Charles Valentine",male,6.373626373626374,1,0,26.0,S,Emperor Goose
-1221,0,2,"Enander, Mr. Ingvar",male,4.615384615384616,0,0,13.0,S,Canada Goose
-1222,1,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,10.54945054945055,0,2,36.75,S,Canada Goose
-1223,0,1,"Dulles, Mr. William Crothers",male,8.571428571428571,0,0,29.7,C,Swan Goose
-1224,0,3,"Thomas, Mr. Tannous",male,,0,0,7.225,C,Barnacle Goose
-1225,1,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,4.175824175824176,1,1,15.7417,C,Swan Goose
-1226,0,3,"Cor, Mr. Ivan",male,5.934065934065934,0,0,7.8958,S,Emperor Goose
-1227,0,1,"Maguire, Mr. John Edward",male,6.593406593406594,0,0,26.0,S,Snow Goose
-1228,0,2,"de Brito, Mr. Jose Joaquim",male,7.032967032967033,0,0,13.0,S,Canada Goose
-1229,0,3,"Elias, Mr. Joseph",male,8.571428571428571,0,2,7.2292,C,Barnacle Goose
-1230,0,2,"Denbury, Mr. Herbert",male,5.4945054945054945,0,0,31.5,S,Snow Goose
-1231,0,3,"Betros, Master. Seman",male,,0,0,7.2292,C,Emperor Goose
-1232,0,2,"Fillbrook, Mr. Joseph Charles",male,3.956043956043956,0,0,10.5,S,Swan Goose
-1233,0,3,"Lundstrom, Mr. Thure Edvin",male,7.032967032967033,0,0,7.5792,S,Snow Goose
-1234,0,3,"Sage, Mr. John George",male,,1,9,69.55,S,Emperor Goose
-1235,1,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,12.747252747252748,0,1,512.3292,C,Snow Goose
-1236,0,3,"van Billiard, Master. James William",male,,1,1,14.5,S,Snow Goose
-1237,1,3,"Abelseth, Miss. Karen Marie",female,3.5164835164835164,0,0,7.65,S,Barnacle Goose
-1238,0,2,"Botsford, Mr. William Hull",male,5.714285714285714,0,0,13.0,S,Greylag Goose
-1239,1,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,8.351648351648352,0,0,7.2292,C,Barnacle Goose
-1240,0,2,"Giles, Mr. Ralph",male,5.274725274725275,0,0,13.5,S,Greylag Goose
-1241,1,2,"Walcroft, Miss. Nellie",female,6.813186813186814,0,0,21.0,S,Swan Goose
-1242,1,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,9.89010989010989,0,1,63.3583,C,Snow Goose
-1243,0,2,"Stokes, Mr. Philip Joseph",male,5.4945054945054945,0,0,10.5,S,Canada Goose
-1244,0,2,"Dibden, Mr. William",male,3.956043956043956,0,0,73.5,S,Greylag Goose
-1245,0,2,"Herman, Mr. Samuel",male,10.76923076923077,1,2,65.0,S,Swan Goose
-1246,1,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.03736263736263737,1,2,20.575,S,Greylag Goose
-1247,0,1,"Julian, Mr. Henry Forbes",male,10.989010989010989,0,0,26.0,S,Canada Goose
-1248,1,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,12.967032967032967,2,0,51.4792,S,Greylag Goose
-1249,0,3,"Lockyer, Mr. Edward",male,,0,0,7.8792,S,Emperor Goose
-1250,0,3,"O'Keefe, Mr. Patrick",male,,0,0,7.75,Q,Emperor Goose
-1251,1,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,6.593406593406594,1,0,15.55,S,Canada Goose
-1252,0,3,"Sage, Master. William Henry",male,3.186813186813187,8,2,69.55,S,Swan Goose
-1253,1,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,5.274725274725275,1,1,37.0042,C,Swan Goose
-1254,1,2,"Ware, Mrs. John James (Florence Louise Long)",female,6.813186813186814,0,0,21.0,S,Swan Goose
-1255,0,3,"Strilic, Mr. Ivan",male,5.934065934065934,0,0,8.6625,S,Swan Goose
-1256,1,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,5.4945054945054945,1,0,55.4417,C,Greylag Goose
-1257,1,3,"Sage, Mrs. John (Annie Bullen)",female,,1,9,69.55,S,Greylag Goose
-1258,0,3,"Caram, Mr. Joseph",male,,1,0,14.4583,C,Barnacle Goose
-1259,1,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,4.835164835164836,0,0,39.6875,S,Greylag Goose
-1260,1,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,9.89010989010989,0,1,59.4,C,Swan Goose
-1261,0,2,"Pallas y Castello, Mr. Emilio",male,6.373626373626374,0,0,13.8583,C,Barnacle Goose
-1262,0,2,"Giles, Mr. Edgar",male,4.615384615384616,1,0,11.5,S,Swan Goose
-1263,1,1,"Wilson, Miss. Helen Alice",female,6.813186813186814,0,0,134.5,C,Snow Goose
-1264,0,1,"Ismay, Mr. Joseph Bruce",male,10.76923076923077,0,0,0.0,S,Greylag Goose
-1265,0,2,"Harbeck, Mr. William H",male,9.670329670329672,0,0,13.0,S,Emperor Goose
-1266,1,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,11.868131868131869,1,1,81.8583,S,Canada Goose
-1267,1,1,"Bowen, Miss. Grace Scott",female,9.89010989010989,0,0,262.375,C,Emperor Goose
-1268,1,3,"Kink, Miss. Maria",female,4.835164835164836,2,0,8.6625,S,Barnacle Goose
-1269,0,2,"Cotterill, Mr. Henry Harry""""",male,4.615384615384616,0,0,11.5,S,Snow Goose
-1270,0,1,"Hipkins, Mr. William Edward",male,12.087912087912088,0,0,50.0,S,Greylag Goose
-1271,0,3,"Asplund, Master. Carl Edgar",male,1.098901098901099,4,2,31.3875,S,Emperor Goose
-1272,0,3,"O'Connor, Mr. Patrick",male,,0,0,7.75,Q,Snow Goose
-1273,0,3,"Foley, Mr. Joseph",male,5.714285714285714,0,0,7.8792,Q,Greylag Goose
-1274,1,3,"Risien, Mrs. Samuel (Emma)",female,,0,0,14.5,S,Snow Goose
-1275,1,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,4.175824175824176,1,0,16.1,S,Barnacle Goose
-1276,0,2,"Wheeler, Mr. Edwin Frederick""""",male,,0,0,12.875,S,Greylag Goose
-1277,1,2,"Herman, Miss. Kate",female,5.274725274725275,1,2,65.0,S,Canada Goose
-1278,0,3,"Aronsson, Mr. Ernst Axel Algot",male,5.274725274725275,0,0,7.775,S,Snow Goose
-1279,0,2,"Ashby, Mr. John",male,12.527472527472527,0,0,13.0,S,Snow Goose
-1280,0,3,"Canavan, Mr. Patrick",male,4.615384615384616,0,0,7.75,Q,Greylag Goose
-1281,0,3,"Palsson, Master. Paul Folke",male,1.3186813186813187,3,1,21.075,S,Emperor Goose
-1282,0,1,"Payne, Mr. Vivian Ponsonby",male,5.054945054945055,0,0,93.5,S,Greylag Goose
-1283,1,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,11.20879120879121,0,1,39.4,S,Greylag Goose
-1284,0,3,"Abbott, Master. Eugene Joseph",male,2.857142857142857,0,2,20.25,S,Emperor Goose
-1285,0,2,"Gilbert, Mr. William",male,10.32967032967033,0,0,10.5,S,Emperor Goose
-1286,0,3,"Kink-Heilmann, Mr. Anton",male,6.373626373626374,3,1,22.025,S,Barnacle Goose
-1287,1,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,3.956043956043956,1,0,60.0,S,Barnacle Goose
-1288,0,3,"Colbert, Mr. Patrick",male,5.274725274725275,0,0,7.25,Q,Emperor Goose
-1289,1,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,10.54945054945055,1,1,79.2,C,Snow Goose
-1290,0,3,"Larsson-Rondberg, Mr. Edvard A",male,4.835164835164836,0,0,7.775,S,Emperor Goose
-1291,0,3,"Conlon, Mr. Thomas Henry",male,6.813186813186814,0,0,7.7333,Q,Barnacle Goose
-1292,1,1,"Bonnell, Miss. Caroline",female,6.593406593406594,0,0,164.8667,S,Emperor Goose
-1293,0,2,"Gale, Mr. Harry",male,8.351648351648352,1,0,21.0,S,Snow Goose
-1294,1,1,"Gibson, Miss. Dorothy Winifred",female,4.835164835164836,0,1,59.4,C,Emperor Goose
-1295,0,1,"Carrau, Mr. Jose Pedro",male,3.7362637362637363,0,0,47.1,S,Greylag Goose
-1296,0,1,"Frauenthal, Mr. Isaac Gerald",male,9.45054945054945,1,0,27.7208,C,Emperor Goose
-1297,0,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,4.395604395604396,0,0,13.8625,C,Emperor Goose
-1298,0,2,"Ware, Mr. William Jeffery",male,5.054945054945055,1,0,10.5,S,Emperor Goose
-1299,0,1,"Widener, Mr. George Dunton",male,10.989010989010989,1,1,211.5,C,Swan Goose
-1300,1,3,"Riordan, Miss. Johanna Hannah""""",female,,0,0,7.7208,Q,Barnacle Goose
-1301,1,3,"Peacock, Miss. Treasteall",female,0.6593406593406593,1,1,13.775,S,Barnacle Goose
-1302,1,3,"Naughton, Miss. Hannah",female,,0,0,7.75,Q,Canada Goose
-1303,1,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,8.131868131868131,1,0,90.0,Q,Swan Goose
-1304,1,3,"Henriksson, Miss. Jenny Lovisa",female,6.153846153846154,0,0,7.775,S,Swan Goose
-1305,0,3,"Spector, Mr. Woolf",male,,0,0,8.05,S,Barnacle Goose
-1306,1,1,"Oliva y Ocana, Dona. Fermina",female,8.571428571428571,0,0,108.9,C,Barnacle Goose
-1307,0,3,"Saether, Mr. Simon Sivertsen",male,8.461538461538462,0,0,7.25,S,Canada Goose
-1308,0,3,"Ware, Mr. Frederick",male,,0,0,8.05,S,Emperor Goose
-1309,0,3,"Peter, Master. Michael J",male,,1,1,22.3583,C,Barnacle Goose
+404,0,3,Bob,male,,0,0,7.8292,Q,Barnacle Goose
+6,1,3,David,female,10.32967032967033,1,0,7.0,S,Canada Goose
+292,0,2,Bob,male,13.626373626373628,0,0,9.6875,Q,Canada Goose
+86,0,3,Alice,male,5.934065934065934,0,0,8.6625,S,Emperor Goose
+451,1,3,Hannah,female,4.835164835164836,1,1,12.2875,S,Snow Goose
+22,0,3,Alice,male,3.076923076923077,0,0,9.225,S,Greylag Goose
+59,1,3,Alice,female,6.593406593406594,0,0,7.6292,Q,Canada Goose
+338,0,2,Ian,male,5.714285714285714,1,1,29.0,S,Barnacle Goose
+353,1,3,Grace,female,3.956043956043956,0,0,7.2292,C,Snow Goose
+137,0,3,Alice,male,,2,0,24.15,S,Snow Goose
+80,0,3,Julia,male,6.653316562955117,0,0,7.8958,S,Canada Goose
+336,0,1,Charlie,male,,0,0,26.0,S,Greylag Goose
+266,1,1,Grace,female,5.054945054945055,1,0,82.2667,S,Barnacle Goose
+374,0,2,David,male,13.846153846153848,1,0,26.0,S,Swan Goose
+439,1,1,Julia,female,10.32967032967033,1,0,61.175,S,Swan Goose
+310,1,2,Frank,female,,1,0,27.7208,C,Emperor Goose
+145,0,2,Frank,male,7.6923076923076925,0,0,12.35,Q,Snow Goose
+398,0,3,Grace,male,,0,0,7.225,C,Barnacle Goose
+109,1,3,David,female,5.934065934065934,1,0,7.925,S,Swan Goose
+100,1,3,Bob,female,,0,0,7.225,C,Canada Goose
+138,0,1,David,male,12.087912087912088,1,0,59.4,C,Barnacle Goose
+166,0,3,Eva,male,1.978021978021978,0,1,3.1708,S,Snow Goose
+148,1,1,Charlie,female,,0,0,31.6833,S,Snow Goose
+178,0,1,Ian,male,4.615384615384616,0,1,61.3792,C,Greylag Goose
+340,1,1,Charlie,female,,1,3,262.375,C,Canada Goose
+60,0,3,Alice,male,,1,0,14.5,S,Snow Goose
+387,1,1,Julia,female,4.835164835164836,0,1,61.9792,C,Canada Goose
+75,0,3,David,male,4.945054945054945,0,0,7.225,C,Barnacle Goose
+28,0,1,Julia,male,9.010989010989013,0,0,30.5,S,Swan Goose
+254,0,3,Eva,male,6.653316562955117,2,0,21.6792,C,Emperor Goose
+229,0,2,Hannah,male,,1,0,26.0,S,Canada Goose
+233,0,2,David,male,5.274725274725275,2,0,31.5,S,Emperor Goose
+16,1,3,Grace,female,7.252747252747253,1,2,20.575,S,Canada Goose
+63,1,3,Grace,female,,1,2,23.45,S,Swan Goose
+278,0,1,Grace,male,6.593406593406594,1,0,57.75,C,Canada Goose
+210,0,3,Grace,male,4.065934065934066,0,0,7.2292,C,Snow Goose
+125,1,3,Julia,female,6.653316562955117,0,0,8.05,S,Greylag Goose
+277,1,3,Alice,female,4.615384615384616,0,0,8.6625,S,Emperor Goose
+426,0,3,Julia,male,5.494505494505495,0,0,9.5,S,Snow Goose
+333,0,3,David,male,,0,0,56.4958,S,Snow Goose
+360,0,3,Bob,male,8.571428571428571,0,1,13.4167,C,Canada Goose
+427,0,1,Alice,male,6.653316562955117,0,0,26.55,S,Snow Goose
+199,0,3,Julia,male,,0,0,7.85,S,Swan Goose
+441,1,2,Ian,female,6.593406593406594,0,0,13.0,S,Canada Goose
+182,1,1,Alice,female,9.89010989010989,1,0,52.5542,S,Swan Goose
+308,0,3,Julia,male,5.494505494505495,0,0,7.925,S,Canada Goose
+9,0,1,Julia,male,,0,0,29.7,C,Canada Goose
+331,0,3,David,male,6.653316562955117,0,0,7.75,Q,Greylag Goose
+406,1,1,David,female,13.186813186813188,0,0,76.2917,C,Swan Goose
+65,1,3,Eva,female,7.912087912087912,0,2,15.9,S,Swan Goose
+33,0,1,Eva,male,5.274725274725275,1,0,60.0,S,Emperor Goose
+263,0,2,Eva,male,5.934065934065934,0,0,15.0333,C,Emperor Goose
+37,1,2,Ian,female,4.395604395604396,2,1,23.0,S,Swan Goose
+61,1,1,Grace,female,6.153846153846154,3,2,263.0,S,Snow Goose
+401,0,2,Charlie,male,6.653316562955117,0,0,15.5792,C,Greylag Goose
+346,0,3,Ian,male,,4,1,29.125,Q,Canada Goose
+303,0,3,Bob,male,,0,0,7.8958,S,Emperor Goose
+95,0,3,Eva,male,,0,0,7.65,S,Canada Goose
+147,0,3,Grace,male,6.653316562955117,1,0,16.1,S,Canada Goose
+298,1,1,David,female,7.912087912087912,0,0,262.375,C,Canada Goose
+92,0,3,Julia,male,3.736263736263736,0,0,7.8958,S,Canada Goose
+409,0,2,Grace,male,7.032967032967033,0,0,13.5,S,Emperor Goose
+349,0,3,Alice,male,3.956043956043956,0,0,7.75,S,Greylag Goose
+241,1,3,Julia,female,4.835164835164836,0,0,7.725,Q,Emperor Goose
+369,0,1,Grace,male,2.857142857142857,2,2,262.375,C,Emperor Goose
+386,1,2,Grace,female,6.653316562955117,0,0,21.0,S,Snow Goose
+78,1,3,Alice,female,,0,0,7.8792,Q,Canada Goose
+250,0,1,David,male,10.32967032967033,0,0,42.4,S,Swan Goose
+257,0,1,Julia,male,6.813186813186814,0,0,28.5375,C,Greylag Goose
+289,1,1,Ian,female,13.186813186813188,1,4,263.0,S,Emperor Goose
+64,1,3,Bob,female,,0,0,7.75,Q,Emperor Goose
+423,0,3,Eva,male,4.615384615384616,0,0,7.8958,S,Barnacle Goose
+313,1,3,Ian,female,,0,0,7.925,S,Barnacle Goose
+407,0,1,Ian,male,,0,0,27.7208,C,Greylag Goose
+388,1,1,Hannah,female,7.6923076923076925,0,0,211.5,C,Barnacle Goose
+231,0,1,Bob,male,,0,0,211.5,C,Barnacle Goose
+1,0,3,Julia,male,,0,0,8.05,S,Snow Goose
+430,1,1,Eva,female,,2,0,25.7,S,Swan Goose
+198,0,2,David,male,,0,0,13.0,S,Greylag Goose
+146,1,3,Eva,female,,0,0,7.75,Q,Canada Goose
+314,0,3,Julia,male,1.3186813186813189,1,1,15.2458,C,Greylag Goose
+136,0,1,Grace,male,14.725274725274726,1,0,221.7792,S,Canada Goose
+161,0,1,David,male,,0,0,26.0,S,Emperor Goose
+294,0,3,Julia,male,6.653316562955117,0,0,7.8958,S,Barnacle Goose
+111,0,2,Ian,male,6.653316562955117,0,0,10.7083,Q,Barnacle Goose
+126,0,3,Eva,male,6.653316562955117,1,0,14.4542,C,Canada Goose
+200,1,3,Julia,female,5.934065934065934,0,0,7.8792,Q,Emperor Goose
+280,1,3,Grace,female,3.956043956043956,0,0,8.05,S,Snow Goose
+104,1,3,Alice,female,6.653316562955117,0,0,7.75,Q,Barnacle Goose
+219,0,2,Julia,male,0.4395604395604395,1,1,23.0,S,Emperor Goose
+214,1,3,Bob,female,,1,0,13.9,S,Snow Goose
+52,0,3,Ian,male,6.653316562955117,0,0,7.775,S,Snow Goose
+449,1,1,Julia,female,5.934065934065934,1,2,52.0,S,Barnacle Goose
+302,0,3,Julia,male,,0,0,8.05,S,Barnacle Goose
+159,0,1,David,male,5.494505494505495,0,0,26.0,C,Canada Goose
+222,0,3,Julia,male,5.494505494505495,0,0,7.7958,S,Barnacle Goose
+84,1,1,David,female,16.703296703296704,1,0,78.85,S,Barnacle Goose
+139,0,3,Bob,male,6.373626373626374,0,0,7.925,S,Snow Goose
+54,1,3,Eva,female,4.395604395604396,0,0,7.8542,S,Swan Goose
+306,0,3,Grace,male,7.252747252747253,0,0,8.05,S,Emperor Goose
+74,1,1,Bob,female,9.45054945054945,1,0,55.4417,C,Greylag Goose
+202,0,2,Grace,male,,1,0,26.0,S,Emperor Goose
+168,0,3,Grace,male,6.653316562955117,0,0,7.75,Q,Canada Goose
+329,0,3,Frank,male,5.714285714285714,0,0,7.775,S,Greylag Goose
+357,1,3,Grace,female,3.5164835164835164,1,1,8.5167,C,Emperor Goose
+195,0,3,Ian,male,6.153846153846154,0,0,22.525,S,Swan Goose
+62,0,3,Hannah,male,4.615384615384616,0,0,7.8208,Q,Barnacle Goose
+32,0,3,Alice,male,6.653316562955117,0,0,7.75,Q,Greylag Goose
+437,0,3,Charlie,male,6.653316562955117,0,0,8.7125,S,Canada Goose
+85,0,2,Bob,male,4.065934065934066,0,0,13.0,S,Greylag Goose
+164,0,2,Hannah,male,9.010989010989013,0,0,15.0458,C,Snow Goose
+122,1,3,Ian,female,6.653316562955117,0,0,7.7792,Q,Canada Goose
+5,1,1,Grace,female,7.912087912087912,0,0,31.6792,C,Emperor Goose
+187,1,3,Bob,female,,0,0,7.2833,Q,Barnacle Goose
+384,1,1,Hannah,female,13.846153846153848,1,0,221.7792,S,Canada Goose
+234,0,3,David,male,3.956043956043956,1,0,14.4542,C,Swan Goose
+410,0,3,Grace,male,,0,0,6.4375,C,Greylag Goose
+189,1,3,Julia,female,,1,1,16.7,S,Canada Goose
+411,0,1,Bob,male,7.912087912087912,0,0,75.2417,C,Snow Goose
+367,1,2,Hannah,female,6.373626373626374,1,0,26.0,S,Emperor Goose
+143,1,2,Grace,female,2.6373626373626373,0,0,15.75,S,Greylag Goose
+318,0,3,Charlie,male,6.653316562955117,1,0,7.75,Q,Emperor Goose
+213,1,1,David,female,7.6923076923076925,1,0,57.75,C,Barnacle Goose
+154,0,3,David,male,6.153846153846154,0,0,7.25,S,Canada Goose
+183,0,3,Julia,male,,0,0,7.75,Q,Snow Goose
+160,1,3,Grace,female,3.736263736263736,0,1,16.1,S,Canada Goose
+433,0,3,Frank,male,4.835164835164836,0,0,7.7958,S,Greylag Goose
+141,1,3,Ian,female,6.653316562955117,2,0,23.25,Q,Greylag Goose
+247,0,2,Hannah,male,9.230769230769232,0,0,13.0,S,Greylag Goose
+343,0,3,Grace,male,5.274725274725275,0,0,8.05,S,Swan Goose
+17,0,3,Bob,male,7.032967032967033,0,0,8.05,S,Barnacle Goose
+117,0,1,Frank,male,11.64835164835165,0,0,28.5,C,Swan Goose
+188,1,3,Julia,female,,0,4,25.4667,S,Swan Goose
+236,0,3,Julia,male,6.653316562955117,1,0,6.4375,C,Swan Goose
+106,0,3,Julia,male,9.45054945054945,0,0,7.8958,S,Greylag Goose
+341,0,3,Frank,male,5.274725274725275,0,0,7.8542,S,Snow Goose
+24,0,3,Charlie,male,5.824175824175825,0,0,7.225,C,Greylag Goose
+260,0,2,Julia,male,,0,0,13.0,S,Swan Goose
+328,1,3,Hannah,female,5.054945054945055,0,0,8.05,S,Barnacle Goose
+192,0,3,Alice,male,8.791208791208792,1,6,46.9,S,Canada Goose
+144,1,3,Bob,female,,5,2,46.9,S,Swan Goose
+163,1,1,David,female,7.252747252747253,0,0,151.55,S,Swan Goose
+226,0,1,Eva,male,13.406593406593409,1,3,262.375,C,Greylag Goose
+115,0,2,Grace,male,6.153846153846154,0,0,26.0,S,Emperor Goose
+363,0,1,Ian,male,9.230769230769232,0,0,26.55,S,Emperor Goose
+394,0,3,Julia,male,6.813186813186814,3,0,18.0,S,Greylag Goose
+296,0,1,Grace,male,6.653316562955117,0,0,51.8625,S,Barnacle Goose
+239,0,3,Ian,male,4.835164835164836,0,0,8.05,S,Swan Goose
+421,0,1,Eva,male,6.653316562955117,0,0,26.55,S,Swan Goose
+438,0,2,Hannah,male,6.593406593406594,1,1,26.0,S,Swan Goose
+323,1,1,Frank,female,5.054945054945055,0,1,83.1583,C,Emperor Goose
+347,0,3,Bob,male,6.653316562955117,0,0,7.8958,C,Emperor Goose
+180,0,3,Hannah,male,13.296703296703296,0,0,35.627188489208635,S,Greylag Goose
+352,1,3,Bob,female,,0,2,12.1833,S,Greylag Goose
+269,0,3,Bob,male,,4,2,31.3875,S,Snow Goose
+232,0,3,Frank,male,,0,0,7.55,S,Emperor Goose
+414,1,1,Ian,female,6.373626373626374,0,0,221.7792,S,Emperor Goose
+128,1,3,Julia,female,5.054945054945055,0,0,7.8542,S,Swan Goose
+58,0,1,Charlie,male,9.230769230769232,0,0,26.55,S,Emperor Goose
+34,1,3,Hannah,female,5.714285714285714,0,2,13.775,S,Barnacle Goose
+90,1,3,Ian,female,6.653316562955117,0,0,7.7333,Q,Swan Goose
+327,0,3,Hannah,male,1.5384615384615383,1,1,15.2458,C,Swan Goose
+50,1,2,Alice,female,5.714285714285714,0,0,13.5,S,Snow Goose
+453,0,3,Bob,male,6.653316562955117,0,0,7.0,S,Swan Goose
+396,0,2,Frank,male,9.010989010989013,0,0,13.0,S,Emperor Goose
+279,1,3,Julia,female,5.714285714285714,1,1,22.025,S,Swan Goose
+165,0,1,Ian,male,10.54945054945055,0,0,50.4958,C,Swan Goose
+223,0,3,Julia,male,3.956043956043956,2,2,34.375,S,Snow Goose
+418,1,1,Frank,female,,0,0,27.7208,C,Barnacle Goose
+440,1,3,Eva,female,4.835164835164836,0,0,8.9625,S,Emperor Goose
+295,0,3,Julia,male,6.653316562955117,0,0,7.55,S,Swan Goose
+268,0,3,Julia,male,5.934065934065934,0,0,7.225,C,Canada Goose
+98,0,3,Eva,male,,1,0,13.9,S,Swan Goose
+15,0,3,Grace,male,6.653316562955117,0,0,7.2292,C,Swan Goose
+185,0,3,Ian,male,8.791208791208792,1,5,31.3875,S,Swan Goose
+215,1,2,Ian,female,3.296703296703297,0,2,39.0,S,Emperor Goose
+23,1,2,David,female,4.395604395604396,0,0,36.75,S,Swan Goose
+197,0,1,Ian,male,11.868131868131869,1,0,55.4417,C,Snow Goose
+261,1,2,David,female,7.912087912087912,0,3,39.0,S,Barnacle Goose
+51,1,1,Frank,female,14.065934065934066,0,2,83.1583,C,Snow Goose
+376,0,2,Grace,male,,0,0,13.0,S,Canada Goose
+205,0,1,Grace,male,8.131868131868131,1,1,83.1583,C,Swan Goose
+272,1,1,Bob,female,3.956043956043956,1,0,53.1,S,Swan Goose
+419,0,3,Grace,male,6.653316562955117,0,0,7.75,Q,Snow Goose
+174,1,1,Bob,female,5.934065934065934,1,1,247.5208,C,Swan Goose
+204,0,2,David,male,,0,0,16.0,S,Canada Goose
+344,1,2,Charlie,female,4.615384615384616,0,1,21.0,S,Canada Goose
+134,0,3,David,male,3.736263736263736,2,0,8.05,S,Swan Goose
+434,1,3,Charlie,female,6.653316562955117,8,2,69.55,S,Swan Goose
+41,0,2,Eva,male,8.791208791208792,0,0,13.0,S,Emperor Goose
+424,0,2,Julia,male,7.472527472527473,1,0,26.0,S,Emperor Goose
+390,0,1,Grace,male,6.653316562955117,0,0,26.0,S,Snow Goose
+181,0,3,Hannah,male,,1,1,14.5,S,Greylag Goose
+286,0,2,Alice,male,13.406593406593409,0,0,12.35,Q,Barnacle Goose
+249,0,2,Alice,male,1.7582417582417582,0,2,32.5,S,Emperor Goose
+397,0,3,Frank,male,7.252747252747253,0,0,7.8542,S,Swan Goose
+112,0,1,Charlie,male,1.3186813186813189,0,2,134.5,C,Greylag Goose
+332,1,3,Ian,female,3.956043956043956,0,0,7.775,S,Barnacle Goose
+455,0,2,Ian,male,5.054945054945055,0,0,10.5,S,Barnacle Goose
+120,1,3,Eva,female,,0,0,8.1125,S,Greylag Goose
+172,1,3,Alice,female,6.653316562955117,0,0,15.5,Q,Canada Goose
+211,0,3,Julia,male,0.0725274725274725,0,2,14.4,S,Barnacle Goose
+415,0,1,Ian,male,10.32967032967033,1,0,227.525,C,Canada Goose
+44,1,2,Hannah,female,,1,1,26.0,S,Swan Goose
+73,0,2,David,male,5.494505494505495,0,0,10.5,S,Canada Goose
+330,0,1,Frank,male,6.653316562955117,0,0,25.7417,C,Canada Goose
+334,1,3,Eva,female,7.6923076923076925,0,0,7.75,Q,Greylag Goose
+402,0,2,Eva,male,5.274725274725275,0,0,10.5,S,Canada Goose
+288,1,1,Bob,female,7.252747252747253,0,0,27.7208,C,Barnacle Goose
+26,0,3,Charlie,male,,0,0,7.8958,S,Swan Goose
+107,0,3,Julia,male,7.032967032967033,0,0,22.525,S,Swan Goose
+392,0,3,Charlie,male,6.653316562955117,0,0,7.05,S,Greylag Goose
+445,0,2,Eva,male,3.736263736263736,0,0,73.5,S,Snow Goose
+436,1,2,Charlie,female,13.186813186813188,1,0,26.0,S,Emperor Goose
+3,1,3,Eva,female,8.351648351648352,4,2,7.775,S,Swan Goose
+355,0,1,Hannah,male,9.230769230769232,0,0,42.5,S,Snow Goose
+36,1,3,Hannah,female,6.653316562955117,0,0,7.8792,Q,Barnacle Goose
+444,0,1,Bob,male,12.527472527472527,1,1,164.8667,S,Barnacle Goose
+152,1,1,Julia,female,,1,1,211.5,C,Emperor Goose
+320,0,3,Bob,male,6.653316562955117,0,0,8.05,S,Swan Goose
+412,1,2,Eva,female,,1,0,13.8583,C,Snow Goose
+212,0,3,Frank,male,4.615384615384616,0,0,8.05,S,Canada Goose
+350,1,2,David,female,4.835164835164836,0,0,10.5,S,Snow Goose
+342,0,3,Frank,male,4.615384615384616,0,0,7.7958,S,Canada Goose
+389,1,1,Ian,female,11.64835164835165,0,0,27.4458,C,Swan Goose
+220,1,3,Grace,female,6.653316562955117,0,2,15.2458,C,Swan Goose
+456,0,3,Hannah,male,5.054945054945055,0,0,7.7958,S,Swan Goose
+77,1,3,Frank,female,,0,0,7.75,Q,Emperor Goose
+127,0,3,Ian,male,8.901098901098901,0,0,15.1,S,Emperor Goose
+403,0,2,David,male,7.912087912087912,0,0,13.0,S,Barnacle Goose
+381,0,2,Alice,male,3.076923076923077,0,0,65.0,S,Swan Goose
+20,1,1,David,female,4.615384615384616,0,0,26.55,S,Emperor Goose
+274,0,3,David,male,4.615384615384616,1,0,6.4958,S,Barnacle Goose
+377,0,3,Frank,male,6.653316562955117,0,0,7.8792,Q,Swan Goose
+171,0,1,Hannah,male,8.571428571428571,1,0,71.2833,C,Snow Goose
+105,0,3,David,male,4.395604395604396,0,0,7.8542,S,Emperor Goose
+443,0,1,Eva,male,14.065934065934066,1,0,75.25,C,Swan Goose
+297,0,3,Eva,male,,0,0,7.225,C,Swan Goose
+132,1,2,Charlie,female,3.956043956043956,1,1,13.0,S,Emperor Goose
+248,1,1,Alice,female,10.54945054945055,1,0,106.425,C,Greylag Goose
+66,1,1,Alice,female,12.087912087912088,0,0,27.7208,C,Emperor Goose
+275,1,2,Bob,female,9.89010989010989,0,2,30.0,S,Emperor Goose
+417,0,1,David,male,9.89010989010989,1,1,134.5,C,Greylag Goose
+87,0,3,Grace,male,6.653316562955117,0,0,7.8875,S,Barnacle Goose
+116,0,3,Ian,male,6.653316562955117,1,2,23.45,S,Swan Goose
+375,0,1,Alice,male,9.010989010989013,1,0,51.8625,S,Barnacle Goose
+283,1,2,Bob,female,4.835164835164836,0,0,21.0,S,Emperor Goose
+209,0,2,Frank,male,,1,1,32.5,S,Swan Goose
+413,1,2,Frank,female,,1,0,26.0,S,Canada Goose
+102,1,3,Grace,female,6.653316562955117,1,0,14.4542,C,Canada Goose
+68,1,2,David,female,0.2021978021978022,1,2,27.75,S,Emperor Goose
+119,0,3,Eva,male,4.395604395604396,0,0,7.925,S,Greylag Goose
+153,0,1,Julia,male,5.934065934065934,1,0,136.7792,C,Barnacle Goose
+113,0,3,Eva,male,5.274725274725275,0,0,9.325,S,Canada Goose
+273,0,3,Alice,male,7.142857142857143,0,0,9.5,S,Swan Goose
+2,0,3,Bob,male,6.653316562955117,0,0,7.55,S,Emperor Goose
+89,0,3,Grace,male,6.653316562955117,0,0,7.75,Q,Canada Goose
+49,0,3,Ian,male,6.153846153846154,0,0,8.05,S,Snow Goose
+170,1,2,Bob,female,4.175824175824176,0,0,13.0,S,Emperor Goose
+393,0,3,Grace,male,4.615384615384616,0,0,7.775,S,Emperor Goose
+382,0,3,Charlie,male,8.021978021978022,1,0,17.4,S,Canada Goose
+8,0,3,Grace,male,,0,0,7.8542,S,Snow Goose
+301,1,2,Ian,female,6.373626373626374,0,2,23.0,S,Emperor Goose
+385,1,3,Alice,female,0.2197802197802197,1,1,12.1833,S,Snow Goose
+186,0,2,Alice,male,6.593406593406594,0,0,12.7375,C,Greylag Goose
+76,0,3,Charlie,male,6.653316562955117,0,0,7.8958,S,Greylag Goose
+264,0,1,Eva,male,6.653316562955117,0,0,0.0,S,Greylag Goose
+176,0,3,Charlie,male,6.653316562955117,0,0,7.55,S,Canada Goose
+29,1,3,Frank,female,6.653316562955117,0,0,8.05,S,Canada Goose
+55,0,3,Grace,male,3.736263736263736,0,0,8.6625,S,Barnacle Goose
+71,0,1,Bob,male,10.10989010989011,0,0,75.2417,C,Swan Goose
+454,0,3,Eva,male,6.653316562955117,0,0,7.75,Q,Canada Goose
+442,1,1,Grace,female,5.714285714285714,1,0,136.7792,C,Barnacle Goose
+368,1,3,Bob,female,6.653316562955117,1,0,15.5,Q,Emperor Goose
+30,0,3,Charlie,male,6.653316562955117,0,0,7.225,C,Canada Goose
+316,1,2,Julia,female,,1,0,26.0,S,Snow Goose
+235,0,2,Grace,male,6.153846153846154,0,0,10.5,S,Swan Goose
+326,0,2,Julia,male,8.791208791208792,1,0,26.0,S,Swan Goose
+293,0,2,Eva,male,6.593406593406594,1,0,21.0,S,Swan Goose
+53,0,2,Julia,male,4.835164835164836,0,0,10.5,S,Canada Goose
+366,1,3,Julia,female,5.054945054945055,0,0,8.6625,S,Barnacle Goose
+246,0,3,Eva,male,,1,1,13.775,S,Snow Goose
+83,1,3,Ian,female,6.653316562955117,0,0,7.75,Q,Emperor Goose
+81,1,3,David,female,1.978021978021978,1,1,15.2458,C,Swan Goose
+243,1,3,Bob,female,,1,1,20.2125,S,Greylag Goose
+429,0,3,Alice,male,7.912087912087912,0,0,7.25,S,Snow Goose
+428,0,3,Eva,male,6.653316562955117,0,0,7.25,S,Snow Goose
+337,0,1,Frank,male,5.274725274725275,1,0,82.2667,S,Greylag Goose
+259,0,3,Grace,male,6.653316562955117,0,0,7.2292,C,Barnacle Goose
+315,0,3,Alice,male,6.653316562955117,0,0,8.05,S,Greylag Goose
+359,0,1,Frank,male,6.653316562955117,0,0,39.6,S,Emperor Goose
+348,1,3,Grace,female,,0,0,6.95,Q,Canada Goose
+97,0,3,Hannah,male,6.653316562955117,0,0,7.2292,C,Canada Goose
+317,0,1,Frank,male,11.64835164835165,1,1,81.8583,S,Greylag Goose
+177,0,3,Ian,male,,0,0,9.5,S,Greylag Goose
+242,0,3,Alice,male,5.714285714285714,0,0,7.8958,S,Barnacle Goose
+230,1,2,Bob,female,0.2197802197802197,1,2,41.5792,C,Barnacle Goose
+312,0,3,Alice,male,,2,0,21.6792,C,Emperor Goose
+155,0,1,Charlie,male,6.593406593406594,0,0,45.5,S,Emperor Goose
+358,0,3,David,male,6.373626373626374,0,0,7.8542,S,Emperor Goose
+391,0,3,Hannah,male,7.032967032967033,0,0,7.775,S,Greylag Goose
+194,0,2,Eva,male,,0,0,15.0458,C,Greylag Goose
+206,0,2,Frank,male,,0,1,21.0,S,Canada Goose
+395,0,3,Julia,male,5.274725274725275,0,0,8.6625,S,Swan Goose
+227,1,3,Eva,female,,0,0,7.75,Q,Snow Goose
+203,1,1,Charlie,female,14.065934065934066,1,1,26.55,S,Canada Goose
+422,0,1,Bob,male,6.593406593406594,1,2,151.55,S,Greylag Goose
+123,0,3,Ian,male,0.1824175824175824,0,1,9.35,S,Swan Goose
+432,0,1,Bob,male,12.087912087912088,1,1,93.5,S,Barnacle Goose
+72,1,3,Ian,female,9.89010989010989,1,0,14.1083,S,Canada Goose
+39,0,3,Bob,male,3.956043956043956,0,0,8.6625,S,Emperor Goose
+373,0,3,Frank,male,4.835164835164836,0,0,7.225,C,Emperor Goose
+365,0,3,Julia,male,6.653316562955117,0,0,7.575,S,Greylag Goose
+351,1,3,Charlie,female,8.131868131868131,0,0,7.75,Q,Greylag Goose
+380,1,1,David,female,,0,0,135.6333,C,Snow Goose
+325,1,3,Grace,female,3.736263736263736,0,0,7.7333,Q,Canada Goose
+405,0,1,Eva,male,,1,0,146.5208,C,Greylag Goose
+307,0,2,Grace,male,4.175824175824176,0,0,10.5,S,Barnacle Goose
+450,0,3,Bob,male,5.934065934065934,0,0,7.8542,S,Snow Goose
+184,0,2,Grace,male,4.835164835164836,2,0,31.5,S,Greylag Goose
+196,0,3,Grace,male,5.714285714285714,0,0,7.775,S,Emperor Goose
+208,0,3,Frank,male,,0,0,7.2292,C,Snow Goose
+82,0,2,Eva,male,5.714285714285714,0,0,13.0,S,Canada Goose
+299,0,1,Hannah,male,7.252747252747253,0,0,26.55,S,Canada Goose
+48,1,1,David,female,8.571428571428571,0,0,211.3375,S,Greylag Goose
+7,0,3,David,male,5.054945054945055,0,0,7.05,S,Snow Goose
+309,1,2,Bob,female,2.6373626373626373,2,1,39.0,S,Canada Goose
+225,0,1,Bob,male,10.10989010989011,0,0,79.2,C,Swan Goose
+149,0,2,Eva,male,6.373626373626374,1,0,26.0,S,Emperor Goose
+224,0,2,Eva,male,4.615384615384616,0,0,13.0,S,Canada Goose
+133,1,2,Eva,female,10.54945054945055,0,2,36.75,S,Canada Goose
+446,0,1,Charlie,male,8.571428571428571,0,0,29.7,C,Swan Goose
+221,0,3,Frank,male,6.653316562955117,0,0,7.225,C,Barnacle Goose
+371,1,3,Ian,female,4.175824175824176,1,1,15.7417,C,Swan Goose
+267,0,3,Grace,male,5.934065934065934,0,0,7.8958,S,Emperor Goose
+237,0,1,Frank,male,6.593406593406594,0,0,26.0,S,Snow Goose
+150,0,2,Frank,male,7.032967032967033,0,0,13.0,S,Canada Goose
+173,0,3,Eva,male,8.571428571428571,0,2,7.2292,C,Barnacle Goose
+94,0,2,David,male,5.494505494505495,0,0,31.5,S,Snow Goose
+311,0,3,Frank,male,6.653316562955117,0,0,7.2292,C,Emperor Goose
+43,0,2,Alice,male,,0,0,10.5,S,Swan Goose
+124,0,3,Eva,male,7.032967032967033,0,0,7.5792,S,Snow Goose
+175,0,3,Alice,male,6.653316562955117,1,9,69.55,S,Emperor Goose
+140,1,1,Eva,female,12.747252747252748,0,1,512.3292,C,Snow Goose
+253,0,3,Hannah,male,6.653316562955117,1,1,14.5,S,Snow Goose
+291,1,3,Frank,female,3.5164835164835164,0,0,7.65,S,Barnacle Goose
+322,0,2,Bob,male,5.714285714285714,0,0,13.0,S,Greylag Goose
+129,1,3,Bob,female,8.351648351648352,0,0,7.2292,C,Barnacle Goose
+372,0,2,Ian,male,5.274725274725275,0,0,13.5,S,Greylag Goose
+31,1,2,David,female,6.813186813186814,0,0,21.0,S,Swan Goose
+13,1,1,Hannah,female,9.89010989010989,0,1,63.3583,C,Snow Goose
+108,0,2,Eva,male,5.494505494505495,0,0,10.5,S,Canada Goose
+228,0,2,Eva,male,3.956043956043956,0,0,73.5,S,Greylag Goose
+121,0,2,Frank,male,10.76923076923077,1,2,65.0,S,Swan Goose
+282,1,3,Ian,female,,1,2,20.575,S,Greylag Goose
+255,0,1,Charlie,male,10.989010989010987,0,0,26.0,S,Canada Goose
+25,1,1,David,female,12.967032967032967,2,0,51.4792,S,Greylag Goose
+11,0,3,Bob,male,6.653316562955117,0,0,7.8792,S,Emperor Goose
+251,0,3,Julia,male,6.653316562955117,0,0,7.75,Q,Emperor Goose
+240,1,3,Eva,female,6.593406593406594,1,0,15.55,S,Canada Goose
+284,0,3,Eva,male,3.186813186813187,8,2,69.55,S,Swan Goose
+216,1,2,Eva,female,,1,1,37.0042,C,Swan Goose
+244,1,2,Bob,female,6.813186813186814,0,0,21.0,S,Swan Goose
+271,0,3,Eva,male,5.934065934065934,0,0,8.6625,S,Swan Goose
+435,1,1,Hannah,female,5.494505494505495,1,0,55.4417,C,Greylag Goose
+96,1,3,Grace,female,6.653316562955117,1,9,69.55,S,Greylag Goose
+110,0,3,Ian,male,6.653316562955117,1,0,14.4583,C,Barnacle Goose
+19,1,3,Bob,female,,0,0,39.6875,S,Greylag Goose
+420,1,1,Julia,female,,0,1,59.4,C,Swan Goose
+156,0,2,David,male,6.373626373626374,0,0,13.8583,C,Barnacle Goose
+151,0,2,Ian,male,4.615384615384616,1,0,11.5,S,Swan Goose
+130,1,1,Bob,female,6.813186813186814,0,0,134.5,C,Snow Goose
+290,0,1,Alice,male,10.76923076923077,0,0,0.0,S,Greylag Goose
+362,0,2,Julia,male,,0,0,,S,Emperor Goose
+281,1,1,Grace,female,,1,1,81.8583,S,Canada Goose
+10,1,1,Frank,female,9.89010989010989,0,0,262.375,C,Emperor Goose
+252,1,3,Julia,female,4.835164835164836,2,0,8.6625,S,Barnacle Goose
+324,0,2,Charlie,male,4.615384615384616,0,0,11.5,S,Snow Goose
+319,0,1,Grace,male,12.087912087912088,0,0,50.0,S,Greylag Goose
+265,0,3,Julia,male,1.098901098901099,4,2,31.3875,S,Emperor Goose
+67,0,3,Charlie,male,,0,0,7.75,Q,Snow Goose
+378,0,3,David,male,5.714285714285714,0,0,7.8792,Q,Greylag Goose
+101,1,3,Grace,female,6.653316562955117,0,0,14.5,S,Snow Goose
+258,1,3,Hannah,female,,1,0,16.1,S,Barnacle Goose
+361,0,2,Julia,male,6.653316562955117,0,0,12.875,S,Greylag Goose
+448,1,2,Charlie,female,5.274725274725275,1,2,65.0,S,Canada Goose
+304,0,3,Frank,male,5.274725274725275,0,0,7.775,S,Snow Goose
+47,0,2,David,male,12.527472527472527,0,0,13.0,S,Snow Goose
+238,0,3,Eva,male,4.615384615384616,0,0,7.75,Q,Greylag Goose
+370,0,3,Ian,male,1.3186813186813189,3,1,21.075,S,Emperor Goose
+57,0,1,Eva,male,5.054945054945055,0,0,93.5,S,Greylag Goose
+364,1,1,Eva,female,,0,1,39.4,S,Greylag Goose
+207,0,3,Frank,male,2.857142857142857,0,2,20.25,S,Emperor Goose
+179,0,2,Eva,male,10.32967032967033,0,0,10.5,S,Emperor Goose
+305,0,3,Grace,male,6.373626373626374,3,1,22.025,S,Barnacle Goose
+40,1,1,Bob,female,3.956043956043956,1,0,60.0,S,Barnacle Goose
+256,0,3,Hannah,male,5.274725274725275,0,0,7.25,Q,Emperor Goose
+42,1,1,Julia,female,10.54945054945055,1,1,79.2,C,Snow Goose
+400,0,3,Frank,male,4.835164835164836,0,0,7.775,S,Emperor Goose
+70,0,3,Alice,male,6.813186813186814,0,0,7.7333,Q,Barnacle Goose
+262,1,1,Julia,female,,0,0,164.8667,S,Emperor Goose
+21,0,2,Ian,male,8.351648351648352,1,0,21.0,S,Snow Goose
+69,1,1,Hannah,female,,0,1,59.4,C,Emperor Goose
+12,0,1,Charlie,male,,0,0,47.1,S,Greylag Goose
+45,0,1,Ian,male,9.45054945054945,1,0,27.7208,C,Emperor Goose
+56,0,2,Julia,male,,0,0,13.8625,C,Emperor Goose
+142,0,2,Eva,male,5.054945054945055,1,0,10.5,S,Emperor Goose
+88,0,1,Julia,male,10.989010989010987,1,1,211.5,C,Swan Goose
+158,1,3,Julia,female,6.653316562955117,0,0,7.7208,Q,Barnacle Goose
+190,1,3,Charlie,female,,1,1,13.775,S,Barnacle Goose
+452,1,3,Grace,female,6.653316562955117,0,0,7.75,Q,Canada Goose
+321,1,1,Bob,female,8.131868131868131,1,0,90.0,Q,Swan Goose
+27,1,3,Hannah,female,6.153846153846154,0,0,7.775,S,Swan Goose
+201,0,3,Eva,male,6.653316562955117,0,0,8.05,S,Barnacle Goose
+335,1,1,Hannah,female,8.571428571428571,0,0,108.9,C,Barnacle Goose
+408,0,3,Ian,male,8.461538461538462,0,0,7.25,S,Canada Goose
+447,0,3,Alice,male,6.653316562955117,0,0,8.05,S,Emperor Goose
+46,0,3,Frank,male,6.653316562955117,1,1,22.3583,C,Barnacle Goose
+4,1,2,Ian,female,6.535726415036175,0,0,13.262444811585409,S,Canada Goose
+114,1,2,Hannah,female,6.2301029481717,0,0,8.390121186183336,Q,Emperor Goose
+162,1,1,Grace,female,7.053612231795999,0,0,145.3532719113617,Q,Snow Goose
+167,1,1,Hannah,female,,1,3,263.0,S,Emperor Goose
+18,1,2,David,female,6.630403276704834,0,0,9.943186856772456,S,Emperor Goose
+379,1,1,Frank,female,3.9781570736613783,1,0,60.08384557096606,S,Barnacle Goose
+118,1,1,Eva,female,7.5169910852640704,1,0,72.42187708448158,S,Emperor Goose
+276,1,3,Hannah,female,1.2018581127835146,0,1,18.705792680221588,Q,Emperor Goose
+217,1,2,Bob,female,5.416414236242992,0,0,11.968917425247223,Q,Emperor Goose
+431,1,2,Bob,female,5.654240828501489,0,0,18.051121996457766,Q,Canada Goose
+131,1,1,Ian,female,7.856695766585173,0,0,31.47254251709821,C,Canada Goose
+191,1,2,Ian,female,,0,1,38.86995395029092,S,Emperor Goose
+169,1,1,Charlie,female,7.878725405110256,0,0,27.061302154546443,Q,Emperor Goose
+38,1,1,Julia,female,8.64259632651336,0,0,44.510210717139664,S,Snow Goose
+356,1,3,Grace,female,,0,0,8.230450688276832,Q,Emperor Goose
+416,1,3,Frank,female,,0,1,14.012442975538931,Q,Snow Goose
+103,1,2,Bob,female,5.311918504227276,0,0,35.18333660363891,S,Greylag Goose
+383,1,1,Ian,female,9.582785834766813,0,1,262.5729603007341,C,Canada Goose
+399,1,1,David,female,,0,0,49.297509346038964,C,Greylag Goose
+345,1,2,Eva,female,4.981806671001174,0,0,9.719378087997155,S,Emperor Goose
+339,1,1,Grace,female,12.999074659732392,0,2,75.50281162100775,C,Greylag Goose
+245,1,2,Grace,female,3.967099557791046,0,1,18.770014726062527,S,Emperor Goose
+285,1,1,Hannah,female,10.308128902769875,0,0,200.57494653710566,C,Emperor Goose
+157,1,3,Alice,female,,0,0,8.02381851124015,Q,Greylag Goose
+354,1,3,David,female,4.582486098677471,0,0,10.424607385999167,S,Snow Goose
+287,1,1,Ian,female,,0,0,77.8748558473462,C,Canada Goose
+35,1,3,Hannah,female,,0,0,7.805853117645657,Q,Barnacle Goose
+270,1,1,David,female,11.715731240440306,0,0,27.721714348139702,C,Emperor Goose
+218,1,3,Bob,female,,0,0,11.022655131852831,S,Emperor Goose
+79,1,1,Eva,female,,0,0,73.14231301926088,Q,Barnacle Goose
+300,1,2,Grace,female,6.5427969186344725,1,0,24.33666314900499,Q,Emperor Goose
+99,1,1,Eva,female,5.076948794086393,0,0,61.6442387067099,C,Emperor Goose
+14,1,3,Julia,female,,0,0,9.484086468746119,Q,Emperor Goose
+91,1,2,Alice,female,,1,0,22.229825591521585,Q,Canada Goose
+135,1,1,Grace,female,9.599312313715425,0,0,70.14367938367728,C,Greylag Goose
+425,1,3,Julia,female,6.653316562955117,0,0,11.619784762807614,Q,Canada Goose
+193,1,1,Ian,female,6.7214109087384095,0,0,168.65274989813636,Q,Emperor Goose
+93,1,2,Ian,female,5.11782588680356,0,0,19.982349666677443,Q,Canada Goose
